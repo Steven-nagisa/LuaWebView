@@ -1,0 +1,30 @@
+appname="微博 Lite"
+appver="2.2"
+appcode="3"
+appsdk="15"
+path_pattern=""
+packagename="com.mynagisa.weibo.lite"
+theme="Theme_DeviceDefault_Light"
+app_key="/storage/emulated/0/public.keystore"
+app_channel=""
+developer="StevenYan.studio"
+description="新浪微博移动网页版"
+debugmode=false
+user_permission={
+  "ACCESS_COARSE_LOCATION",
+  "ACCESS_FINE_LOCATION",
+  "ACCESS_NETWORK_STATE",
+  "ACCESS_WIFI_STATE",
+  "CAMERA",
+  "CHANGE_NETWORK_STATE",
+  "CHANGE_WIFI_STATE",
+  "DOWNLOAD_WITHOUT_NOTIFICATION",
+  "INTERNET",
+  "READ_EXTERNAL_STORAGE",
+  "READ_FRAME_BUFFER",
+  "READ_PHONE_STATE",
+  "RECORD_AUDIO",
+  "SYSTEM_ALERT_WINDOW",
+  "WRITE_EXTERNAL_STORAGE",
+  "WRITE_SETTINGS"
+}
